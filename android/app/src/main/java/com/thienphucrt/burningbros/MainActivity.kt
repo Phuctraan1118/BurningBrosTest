@@ -1,4 +1,4 @@
-package com.burningbros
+package com.thienphucrt.burningbros
 
 import android.os.Build
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.burningbros
+package com.thienphucrt.burningbros
 
 import android.app.Application
 import android.content.res.Configuration
